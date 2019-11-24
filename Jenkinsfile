@@ -1,4 +1,4 @@
 @Library('shared-library') _
-corporatePipeline {
+corporatePipelineSequential {
     deployTo = "dev"
 }
